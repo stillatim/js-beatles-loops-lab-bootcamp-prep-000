@@ -10,7 +10,7 @@ return array;
 function johnLennonFacts(facts) {
   var facts = ["He  lived", "He died", "He sucked"]
   var array = []; 
-  var i = 0
+  var i = 0;
   while (i < 3) {
     array.push(facts[i] + ` !!!`); 
     i++;

@@ -6,9 +6,9 @@ for (let i = 0; i < 4; i++) {
 return array; 
 }
 
-var facts = ["He  lived", "He died", "He sucked"]
 
 function johnLennonFacts(facts) {
+  var facts = ["He  lived", "He died", "He sucked"]
   var array = []; 
   var i = 0
   while (i < 3) {

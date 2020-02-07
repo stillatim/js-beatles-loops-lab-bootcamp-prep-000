@@ -5,3 +5,8 @@ for (let i = 0; i < 4; i++) {
 }
 return array; 
 }
+
+function johnLennonFacts(facts) {
+  var facts = ["He  lived", "He died", "He sucked"]; 
+  while 
+}
